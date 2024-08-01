@@ -1,4 +1,4 @@
-Welcome! We're ASTRA, the Association of Students for Research in AI
+## Welcome! We're ASTRA, the Association of Students for Research in AI
 
 ### Our mantra is as follows:
 
