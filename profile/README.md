@@ -1,6 +1,7 @@
 ## Hey there 👋. We're ASTRA, the Association of Students for Research in AI.
 
-Our mantra is as follows:
+# Our mantra is as follows:
+
 For the advancement of Artificial Intelligence research—by students.
 
 <!--
